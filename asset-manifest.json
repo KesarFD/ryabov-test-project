@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ryabov-test-project/static/css/main.b80113a9.css",
+    "main.js": "/ryabov-test-project/static/js/main.935506f9.js",
+    "static/media/Banner.png": "/ryabov-test-project/static/media/Banner.0a8168ff386c94905c3e.png",
+    "index.html": "/ryabov-test-project/index.html",
+    "main.b80113a9.css.map": "/ryabov-test-project/static/css/main.b80113a9.css.map",
+    "main.935506f9.js.map": "/ryabov-test-project/static/js/main.935506f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b80113a9.css",
+    "static/js/main.935506f9.js"
+  ]
+}
